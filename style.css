@@ -2,7 +2,13 @@
     height: 150px;
     background-color: rgb(0, 140, 255);
     
-    
+
    
 }
+/* evidenzio una parte del testo utilizzando background coloro  su <span> */
+.evidenziato{
+    background-color: yellow;
+}
+
+
 
