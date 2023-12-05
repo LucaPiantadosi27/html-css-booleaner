@@ -19,13 +19,21 @@ span {
     font-weight: bold;
 }
 /* evidenzio una parte del testo utilizzando background coloro  su <span> */
-.evidenziato{
+.evidenziato{ 
     background-color: yellow;
 }
-
+/*  potevo utilizzare il tag <mark> che di default te lo da GIALLO per altri colori bisogna aggiungere lo stile */
 table{
    text-align: left;
-   
+   border-collapse: collapse;
+}
+
+.colonna1{
+    width: 25%;
+
+}
+.colonna2{
+        width: 25%;
 }
 
 thead{
