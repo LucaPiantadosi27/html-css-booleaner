@@ -56,6 +56,31 @@ td{
 
 }
 
+.frstimg{
+    color: white;
+    background-color: blue;
+    width: 250px;
+    height: 180px;
+    background-image: url(img/monitor.jpg);
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+    background-size: 100% ;
+}
+
+.scndimg{
+    color: white;
+    background-color: blue;
+    width: 250px;
+    height: 180px;
+    background-image: url(img/graph.jpg);
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+    background-size: 100% ;
+
+}
+
 .container{
     text-align: left;
     padding: 50px;
