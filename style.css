@@ -1,9 +1,14 @@
-.bkground {
-    height: 150px;
-    background-color: rgb(0, 140, 255);
-    
 
-   
+nav{
+    height: 100px;
+    background-color: rgb(0, 140, 255);
+    background-image: url(pattern.png);
+}
+
+#logo{
+    
+    height: 70px;
+    width: 190px;
 }
 
 .one{
